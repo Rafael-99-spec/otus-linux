@@ -1,3 +1,6 @@
+https://www.server-world.info/en/note?os=CentOS_7&p=nfs&f=2
+
+
 # Vagrant quick start
 
 1. Устанавливаете Vagrant: <https://www.vagrantup.com/downloads.html>  
